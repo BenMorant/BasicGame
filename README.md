@@ -10,4 +10,4 @@ From ZetCode : http://zetcode.com/javagames/basics/
   of animation
 
 - "spaceship" : displays a spacecraft that you can move all around the board and which can launch
-  missiles (by using the SPACE key)
+  missiles (by using the SPACE key), in order to destroy aliens
